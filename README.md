@@ -12,7 +12,7 @@ Have a specific problem in mind that you would like to know how to solve? Is the
 
 ### Vote on existing topics
 
-Simply reacting with a :+1: on the issue's original comment is sufficient. It is not recommended to keep adding :+1: standalone comments because it makes the vote counting slightly more difficult :)
+Simply reacting with a :+1: on the issue's original comment is sufficient. It is not recommended to keep adding :+1: standalone comments because it makes the vote counting slightly more difficult.
 
 ### Volunteer as a speaker
 
