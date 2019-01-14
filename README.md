@@ -16,4 +16,4 @@ Simply reacting with a :+1: on the issue's original comment is sufficient. It is
 
 ### Volunteer as a speaker
 
-Do you want to practice your speaking skills, or do you think that you would be able to fill the knowledge gap of a proposed topic? If so, please don't hesitate to create a pull request with a brief description/bulletpoint list of what you would talk about, and we will get back to you as soon as we can!
+Do you want to practice your speaking skills, or do you think that you would be able to fill the knowledge gap of a proposed topic? Do you have a pet project and would like to share some tech specifics with a wider audience? If so, please don't hesitate to create a pull request with a brief description/bulletpoint list of what you would talk about, and we will get back to you as soon as we can!
